@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👀 I’m interested in ML & Robotics & Aerospace
+- 🌱 I’m currently learning ML & Robotics & Aerospace
+- 💞️ I’m looking to collaborate on ML & Robotics & Aerospace
+
 <!--
 **huamichaelchen/huamichaelchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
